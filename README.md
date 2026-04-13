@@ -1,4 +1,4 @@
-# Hi, I'm Seoyun Kim 👋
+# Hi, I'm Seoyun Kim 😸
 
 I'm an undergraduate student double-majoring in Statistics and International Trade, passionate about applying **causal inference and machine learning** to environmental and public health questions. Currently preparing for graduate study in climate/environmental policy.
 
