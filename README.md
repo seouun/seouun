@@ -29,7 +29,6 @@ I'm an undergraduate student in Statistics, passionate about applying **causal i
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PyMC](https://img.shields.io/badge/PyMC-Bayesian-blue?style=flat)
 ![EconML](https://img.shields.io/badge/EconML-Causal%20ML-green?style=flat)
 
 **Methods:** Machine Learning · Causal Inference (DML) · Time Series · Bayesian Hierarchical Modeling
@@ -39,4 +38,5 @@ I'm an undergraduate student in Statistics, passionate about applying **causal i
 ## Publication
 
 **Causal Effect of Food Insecurity on Depression: A Double Machine Learning Analysis Using NHANES Data**
+
 *The Korean Journal of Applied Statistics* (In preparation)
