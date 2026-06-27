@@ -1,14 +1,16 @@
-# Hi, I'm Seoyun Kim 😸
+# Hi, I'm Seoyun Kim 👋
 
-I'm an undergraduate student double-majoring in Statistics and International Trade, passionate about applying **causal inference and machine learning** to environmental and public health questions. Currently preparing for graduate study in climate/environmental policy.
+I'm an undergraduate student double-majoring in Statistics and International Trade. My work applies causal inference and machine learning to questions in climate, environmental, and public health policy.
+I'm currently applying to graduate programs in climate and sustainability, with the goal of using quantitative methods to evaluate climate and environmental policy.
 
 ---
 
 ## Research Interests
 
-- Climate change impact quantification (SSP scenarios, IAM)
+- Climate impact quantification under SSP scenarios
 - Causal inference for environmental and health policy
 - Semi-parametric methods under complex survey design
+
 
 ---
 
@@ -39,4 +41,4 @@ I'm an undergraduate student double-majoring in Statistics and International Tra
 
 **Causal Effect of Food Insecurity on Depression: A Double Machine Learning Analysis Using NHANES Data**
 
-*The Korean Journal of Applied Statistics* (In preparation)
+*The Korean Journal of Applied Statistics* (In revision)
