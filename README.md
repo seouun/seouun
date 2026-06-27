@@ -1,6 +1,7 @@
 # Hi, I'm Seoyun Kim 👋
 
 I'm an undergraduate student double-majoring in Statistics and International Trade. My work applies causal inference and machine learning to questions in climate, environmental, and public health policy.
+
 I'm currently interested in pursuing graduate programs in climate and sustainability, with the goal of using quantitative methods to evaluate climate and environmental policy.
 
 ---
